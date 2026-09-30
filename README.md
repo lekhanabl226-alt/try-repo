@@ -1,2 +1,2 @@
 # try-repo
-this is to reate the github repositroy
+this is to try github repositroy
